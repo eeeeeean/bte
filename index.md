@@ -1,12 +1,10 @@
+![Image](http://bridgetownelectric.com/communities/1/000/002/243/681//images/14043413.png)
 ---
 layout: page
 title: BTE Pre-Construction
 tagline: Reducing costs and saving time
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
-
-![Image](http://bridgetownelectric.com/communities/1/000/002/243/681//images/14043413.png)
-
 Bridgetown Electric provides extensive pre-construction services to reduce your costs upfront.
 
 #### Project Review
