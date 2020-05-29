@@ -1,4 +1,3 @@
-![Image](http://bridgetownelectric.com/communities/1/000/002/243/681//images/14043413.png)
 ---
 layout: page
 title: BTE Pre-Construction
